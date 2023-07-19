@@ -1,0 +1,33 @@
+.home-container {
+  text-align: center;
+}
+
+.welcome-message {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contact-details {
+  margin-top: 20px;
+}
+
+.contact-details h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.contact-details p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.clear-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+  
